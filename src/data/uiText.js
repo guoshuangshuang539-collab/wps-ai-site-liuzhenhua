@@ -129,7 +129,7 @@ export const uiTextByLanguage = {
     },
     blog: {
       heroTitle: 'The Official WPS Blog',
-      heroDesc: 'Stories about AI-powered productivity, product launches, and how teams work smarter with WPS.',
+      heroDesc: 'Product launches, enterprise solutions, customer success stories, and the latest thinking on AI-powered productivity — direct from the WPS Office team at Kingsoft.',
       searchPlaceholder: 'Search articles...',
       featured: 'Featured',
       moreNews: 'More News',
@@ -270,10 +270,10 @@ export const uiTextByLanguage = {
     },
     blog: {
       heroTitle: 'WPS 官方博客',
-      heroDesc: '提供技巧、教程和实用见解，帮你充分发挥 WPS Office 的全部潜能。从入门指南到高效进阶技巧，应有尽有。',
+      heroDesc: '产品发布、企业解决方案、客户故事与行业洞察——WPS Office 官方出品，全面展示品牌理念与 AI 办公能力。',
       searchPlaceholder: '搜索文章...',
       featured: '精选',
-      moreNews: '更多新闻',
+      moreNews: '更多内容',
       noResults: '未找到结果。',
       followUs: '关注我们',
       share: '分享',
