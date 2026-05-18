@@ -270,7 +270,7 @@ export const uiTextByLanguage = {
     },
     blog: {
       heroTitle: 'WPS 官方博客',
-      heroDesc: '关于 AI 驱动的生产力、产品发布以及团队如何使用 WPS 更智能地工作的故事。',
+      heroDesc: '提供技巧、教程和实用见解，帮你充分发挥 WPS Office 的全部潜能。从入门指南到高效进阶技巧，应有尽有。',
       searchPlaceholder: '搜索文章...',
       featured: '精选',
       moreNews: '更多新闻',
